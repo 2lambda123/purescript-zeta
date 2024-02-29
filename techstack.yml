@@ -1,0 +1,114 @@
+repo_name: 2lambda123/purescript-zeta
+report_id: 7e4b05d6215f88501f841903e83f9600
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T19:13:12+00:00'
+requested_by: athanclark
+provider: github
+branch: master
+detected_tools_count: 10
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/purescript-zeta
+  detection_source: Repo Metadata
+- name: PureScript
+  description: A strongly-typed language that compiles to Javascript
+  website_url: https://github.com/purescript/psc-package
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/empty-logo-square.png
+  detection_source_url: https://github.com/2lambda123/purescript-zeta
+  detection_source: Repo Metadata
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/2lambda123/purescript-zeta/blob/master/.travis.yml
+  detection_source: ".travis.yml"
+- name: purescript-aff
+  description: Asynchronous effect monad
+  package_url: http://bower.io/purescript-aff
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/2lambda123/purescript-zeta/blob/master/bower.json
+  detection_source: bower.json
+- name: purescript-arrays
+  description: Array utility functions
+  package_url: http://bower.io/purescript-arrays
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/2lambda123/purescript-zeta/blob/master/bower.json
+  detection_source: bower.json
+- name: purescript-foreign-object
+  description: Functions for working with homogeneous JS objects from PureScript
+  package_url: http://bower.io/purescript-foreign-object
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/2lambda123/purescript-zeta/blob/master/bower.json
+  detection_source: bower.json
+- name: purescript-js-timers
+  description: PureScript library for native JavaScript timers
+  package_url: http://bower.io/purescript-js-timers
+  version: 4.0.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/2lambda123/purescript-zeta/blob/master/bower.json
+  detection_source: bower.json
+- name: purescript-psci-support
+  description: Support module for the PSCI interactive mode
+  package_url: http://bower.io/purescript-psci-support
+  version: 4.0.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/2lambda123/purescript-zeta/blob/master/bower.json
+  detection_source: bower.json
+- name: purescript-quickcheck
+  description: An implementation of QuickCheck in PureScript
+  package_url: http://bower.io/purescript-quickcheck
+  version: 6.1.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/2lambda123/purescript-zeta/blob/master/bower.json
+  detection_source: bower.json
+- name: purescript-refs
+  description: Mutable value references
+  package_url: http://bower.io/purescript-refs
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/2lambda123/purescript-zeta/blob/master/bower.json
+  detection_source: bower.json
